@@ -6,6 +6,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Webb Pest Management</title>
 
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+<link rel="manifest" href="favicon/site.webmanifest">
+<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 <!-- CSS -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/styles.css" rel="stylesheet">
@@ -25,9 +35,9 @@
 
 <!-- Begin Slide Show -->
 <div class="container-fluid" style="background-image:url(images/background_dark.jpg); height:100%; width:100%">
-	
+
     <div class="container" style="background-image:url(images/WEBBlogobg_03.png); background-repeat: no-repeat; height:100%">
-    		
+
             <div id="myCarousel" class="carousel slide">
             	<ol class="carousel-indicators">
                 	<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -36,9 +46,9 @@
                     <li data-target="#myCarousel" data-slide-to="3"></li>
                 </ol>
                 <div class="carousel-inner">
-                
+
                 <!-- Slide 1 -->
-                
+
                 	<div class="row item active">
                     	<div class="col-lg-5">
                     		<img src="images/slide_1.png" alt="No Pest Can Escape The Webb" class="img-responsive"/>
@@ -47,17 +57,17 @@
                         	<h1>No Pest Can Escape The Webb</h1>
                             	<p class="hide-sm">&nbsp;</p>
 								<h4 style="line-height:35px;">
-               						Webb Pest Management is a family owned business offering residential and commercial pest control. 
-                                    Owner/operator Mike Webb has been working as a pest technician in the Goldsboro 
-                                    and surrounding area for the last 30 years. Webb Pest Management uses the latest 
+               						Webb Pest Management is a family owned business offering residential and commercial pest control.
+                                    Owner/operator Mike Webb has been working as a pest technician in the Goldsboro
+                                    and surrounding area for the last 30 years. Webb Pest Management uses the latest
                                     tools and techniques to deal with...</h4>
                                 <p class="hide-sm">&nbsp;</p>
                                 <a href="about.php" class="btn btn-danger">LEARN MORE</a>
                         </div>
-                    </div> 
-                    
+                    </div>
+
                     <!-- Slide 2 -->
-                    
+
                     <div class="row item">
                     	<div class="col-lg-5">
                     		<img src="images/slide_2.png" alt="Residential" class="img-responsive"/>
@@ -66,15 +76,15 @@
                         	<h1>Residential Services</h1>
                         		<p class="hide-sm">&nbsp;</p>
                         		<h4 style="line-height:35px;">
-                                Anyone that has ever tried to rid their home of roaches, ants, mice, or any number of other pests using “over the counter” remedies knows it can be a long and frustrating process. Many people spend hundreds of dollars on pest management unsure if a store-bought treatment will yield lasting results. Let us help!  
+                                Anyone that has ever tried to rid their home of roaches, ants, mice, or any number of other pests using “over the counter” remedies knows it can be a long and frustrating process. Many people spend hundreds of dollars on pest management unsure if a store-bought treatment will yield lasting results. Let us help!
                                 </h4>
                                 <p class="hide-sm">&nbsp;</p>
                                 <a href="aboutus.html" class="btn btn-danger">LEARN MORE</a>
                         </div>
                     </div>
-                     
+
                      <!-- Slide 3 -->
-                    
+
                     <div class="row item">
                     	<div class="col-lg-5">
                     		<img src="images/slide_3.png" alt="Commercial" class="img-responsive"/>
@@ -87,30 +97,30 @@
                                 <a href="commercial.php" class="btn btn-danger">LEARN MORE</a>
                         </div>
                     </div>
-                    
+
                     <!-- Slide 4 -->
-                    
+
                     <div class="row item">
                     	<div class="col-lg-5">
                     		<img src="images/slide_4.png" alt="Service area" class="img-responsive"/>
                         </div>
                         <div class="text-right col-lg-6" style="color:white;">
                         	<h1>Service Area</h1>
-                        	<p class="hide-sm">&nbsp;</p>	
+                        	<p class="hide-sm">&nbsp;</p>
                         		<h4 style="line-height:35px;"> Webb Pest Management operates mainly in the counties of
                      	Wayne,
-                        Greene,                        
+                        Greene,
                         Duplin,
                         Lenoir,
                         Any request for services outside of this area will be decided on a per. request basis. </h4>
                       <p class="hide-sm">&nbsp;</p>
                                 <a href="aboutus.html" class="btn btn-danger">LEARN MORE</a>
                         </div>
-                    </div>                                   
+                    </div>
                 </div>
-                
+
                 <!-- Slide controls -->
-                
+
 				<a class="carousel-control left" href="#myCarousel" data-slide="prev">
    		  			<span class="glyphicon glyphicon-chevron-left"></span>
    	  			</a>
@@ -120,7 +130,7 @@
    	  			</a>
 
             </div>
-    </div>         
+    </div>
 </div> <!-- ./slideshow -->
 <!--Pest Section-->
 <div class="container-fluid pestmap" style="background-image:url(images/WEBB_Comp_BG_04.jpg); height:408px;">
@@ -225,10 +235,10 @@
 
 
 
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery-1.11.3.min.js"></script>
 
-<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.js"></script>
 
 <!-- Pests Responsive JS plugin -->
