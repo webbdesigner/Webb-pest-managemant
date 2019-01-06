@@ -1,6 +1,6 @@
 /* CSS Document */
 
-div .navbar-header img { 
+div .navbar-header img {
 	margin-top: 5px;
 }
 .navbar-default {
@@ -34,7 +34,7 @@ div .navbar-header img {
 	margin:20px;
 }
 .modal-content img {
-margin-bottom:10px;	
+margin-bottom:10px;
 }
 
 .modal .btn{
@@ -47,6 +47,7 @@ footer {
 	padding-top:20px;
 	padding-bottom:25px;
 	background-color:#4e483c;
+	height: auto;
 }
 footer a{
 	color:#949351;
@@ -185,11 +186,11 @@ footer {
 	.navbar-right{
 	font-size:14px;
 	font-weight:normal;
-} 
+}
 	.navbar-right{
 	font-size:14px;
 	font-weight:normal;
-} 
+}
 .col-lg-5 .img-responsive{
 	clear:both;
 	margin: 0 auto;
@@ -203,20 +204,20 @@ footer {
 	  background-repeat:no-repeat;
 
   }
-  
+
   .modal-dialog {
 	margin-right:50%;
 	width:80%;
 }
 
 
-  
+
 }
 @media (max-width: 991px) {
   .pestmap {
 	  display:none;
 	  }
-	  
+
 .quote .btn {
 	display:block;
 	margin:0 auto;
@@ -224,13 +225,13 @@ footer {
   margin-bottom:20px;
   }
     .facebook .btn{
-	  
+
 	display:block;
 	margin:0 auto;
   width:50%;
   margin-bottom:20px;
   }
-  
+
 }
 
 
@@ -242,20 +243,20 @@ footer {
 	clear:both;
     margin-bottom: 20px;
   }
-  
+
   .modal {
 	display:none;
   }
-  
+
 .quote .btn {
 	display:block;
 	margin:0 auto;
   width:80%;
   margin-bottom:20px;
   }
-  
+
   .facebook .btn{
-	  
+
 	  	display:block;
 	margin:0 auto;
   width:80%;
@@ -264,11 +265,11 @@ footer {
   .pestmap {
 	  display:none;
 	  }
-  
+
   .navbar-collapse .navbar-right li a {
   	display:block;
 	clear:both;
-	background-color:#FFFFFF; 
+	background-color:#FFFFFF;
 	text-align:center;
 	font-size:18px;
 }
@@ -276,10 +277,10 @@ footer {
 .header{
 	font-size:24px;
 	display:block;
-	
+
 	margin-right:20%;
 }
-  
+
   .navbar-default {
 	 background-repeat:no-repeat;
 }
@@ -298,12 +299,12 @@ footer p {
 
 .navbar-header img{
   	display:block;
-	clear:both;	
+	clear:both;
 	margin:0 auto;
 }
 .navbar-header button{
 	display:block;
-	clear:both;	
+	clear:both;
 	width:60%;
   	margin-right:20%;
 	margin-bottom:-8px;
